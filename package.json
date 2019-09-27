@@ -1,0 +1,14 @@
+{
+  "name": "MyProfile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Aekawan/MyProfile.git",
+  "author": "Aekawan <l3anksing123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^5.0.0",
+    "moment": "^2.24.0",
+    "random": "^2.1.1",
+    "simple-git": "^1.126.0"
+  }
+}
